@@ -1,0 +1,27 @@
+{
+  "entries": [
+    {
+      "timestamp": "2026-09-16T08:02:10",
+      "level": "ERROR",
+      "message": "database unavailable",
+      "source_line": 3
+    },
+    {
+      "timestamp": "2026-09-16T08:03:00",
+      "level": "ERROR",
+      "message": "database unavailable",
+      "source_line": 5
+    }
+  ],
+  "counts": {
+    "INFO": 0,
+    "WARNING": 0,
+    "ERROR": 2
+  },
+  "malformed_lines": [
+    {
+      "line": 6,
+      "content": "this line is malformed"
+    }
+  ]
+}

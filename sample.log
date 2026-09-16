@@ -1,0 +1,7 @@
+[2026-09-16 08:00:00] INFO Application started
+[2026-09-16 08:01:15] INFO User signed in
+2026-09-16T08:02:10 ERROR: database unavailable
+[2026-09-16 08:02:12] WARNING retry scheduled
+2026-09-16T08:03:00 ERROR database unavailable
+this line is malformed
+[2026-09-17 09:10:00] INFO Daily job started
